@@ -2,6 +2,8 @@
 
 A GPT-3 powered English-to-LaTeX translator that fits neatly into your Overleaf workflow.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Introducing Coauthor 🧑‍🔬<br><br>Simplify your research or homework workflow with automated English to LaTeX generation, powered by AI.<br><br>Plus, Coauthor integrates seamlessly with Overleaf. <a href="https://t.co/7S6eMjBdtP">pic.twitter.com/7S6eMjBdtP</a></p>&mdash; Varun Shenoy (@varunshenoy_) <a href="https://twitter.com/varunshenoy_/status/1599844361470377984?ref_src=twsrc%5Etfw">December 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Features
 
 - Convert English descriptions of formulae to LaTeX ("the gradient of A is B transposed plus C")
