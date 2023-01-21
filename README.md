@@ -1,5 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> 
-# Coauthor
+# <img src="public/icons/icon_48.png" width="45" align="left">  Coauthor
 
 A GPT-3 powered English-to-LaTeX translator that fits neatly into your Overleaf workflow.
 
