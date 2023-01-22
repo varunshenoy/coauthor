@@ -1,6 +1,6 @@
 # <img src="public/icons/icon_48.png" width="45" align="left">  Coauthor
 
-A GPT-3 powered English-to-LaTeX translator that fits neatly into your Overleaf workflow.
+A GPT powered English-to-LaTeX translator that fits neatly into your Overleaf workflow. In other words, an absolute life-saver for non-math majors.
 
 ![Coauthor demo](demo.gif)
 
@@ -8,7 +8,7 @@ A GPT-3 powered English-to-LaTeX translator that fits neatly into your Overleaf 
 
 - Convert English descriptions of formulae to LaTeX ("the gradient of A is B transposed plus C")
 - Describe matrices Matlab style ("A = [1, 2, 3; 2, 4, 5]")
-- Simply write out names of equations from famous papers to insert them in ("The equation for Multihead Attention from Attention is All You Need").
+- Simply write out names of theorems or equations and translate them directly ("The equation for Multihead Attention from Attention is All You Need" or "Insert the Time Hierarchy Theorem").
 - Automatically create typeset tables ("A table with three columns titled Name, School, and Email").
 - And many more left for you to discover...
 
