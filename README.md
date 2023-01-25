@@ -15,7 +15,7 @@ A GPT powered English-to-LaTeX translator that fits neatly into your Overleaf wo
 ## Install
 
 1. Navigate to the "build" folder.
-2. Open up `contentScript.js`. Replace the one instance of "YOUR API KEY" with [a valid OpenAI API key](https://beta.openai.com/account/api-keys).
+2. Open up `build/contentScript.js`. Replace the one instance of "YOUR API KEY" with [a valid OpenAI API key](https://beta.openai.com/account/api-keys).
 3. Go to `chrome://extensions/` in your browser and check the box for `Developer mode` in the top right.
 4. Load an unpacked extension. Select the `build` folder.
 5. Refresh any Overleaf tabs that you have open.
