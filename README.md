@@ -1,5 +1,7 @@
 # <img src="public/icons/icon_48.png" width="45" align="left">  Coauthor
 
+*Copilot for Overleaf*
+
 A GPT powered English-to-LaTeX translator that fits neatly into your Overleaf workflow. In other words, an absolute life-saver for non-math majors.
 
 ![Coauthor demo](demo.gif)
