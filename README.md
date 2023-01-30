@@ -12,6 +12,7 @@ A GPT powered English-to-LaTeX translator that fits neatly into your Overleaf wo
 - Describe matrices Matlab style ("A = [1, 2, 3; 2, 4, 5]")
 - Simply write out names of theorems or equations and translate them directly ("The equation for Multihead Attention from Attention is All You Need" or "Insert the Time Hierarchy Theorem").
 - Automatically create typeset tables ("A table with three columns titled Name, School, and Email").
+- Served as an incredibly light Chrome extension. The `contentScript.js` and `background.js` files are only *833 bytes* and *527 bytes*, respectively.
 - And many more left for you to discover...
 
 ## Install
